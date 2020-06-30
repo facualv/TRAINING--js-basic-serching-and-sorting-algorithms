@@ -25,3 +25,20 @@ Sorting is one of the most important topics in computer science; it is faster an
 ### Bubble Sort
 
 It is the simplest sorting algorithms. It just iterate over the entire array and swaps elements if one is bigger than the other.
+
+Bubble sort is the worst type of sort because it compares every pair possible, whereas other sorting algorithms take advantage from the presorted parts of the array.
+
+Time Complexity: O(n x n)
+Space Complexity: O(1)
+
+### Selection Sort
+
+Selection sorting works by scanning the elements for the smallest element and inserting it into the current position of the array. This algorithm is marginally better than the bubble sort. 
+
+
+Time Complexity: O(n x n)
+Space Complexity: O(1)
+
+### Insertion Sort
+
+This algorithm works similarly to selection sort
